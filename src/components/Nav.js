@@ -11,7 +11,6 @@ const Nav = ({ setLibraryStatus, libraryStatus }) => {
     <nav>
       <div>
         <h1>Hashmask #16242</h1>
-        <h4>Name: Destinys Child</h4>
       </div>
       <button
         className={libraryStatus ? "library-active" : ""}
